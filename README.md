@@ -4,14 +4,6 @@ ALX project 0x16. C - Simple Shell.
 A Unix shell is a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems. The shell is both an interactive command language and a scripting language, and is used by the operating system to control the execution of the system using shell scripts.
 
 
-
-<<<<<<< HEAD
-
-
-
-
-=======
->>>>>>> bb6924802ed8faa9c684b29b078067d55f125ba1
 ## Requirements
 - Editors: vi, vim, emacs.
 - Compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89.
@@ -24,9 +16,3 @@ A Unix shell is a command-line interpreter or shell that provides a command line
 
 ## Thank you
 - All [contributors](https://github.com/TandohAnthonyNwiAckah/simple_shell/graphs/contributors)
-
-
-<<<<<<< HEAD
-=======
-
->>>>>>> bb6924802ed8faa9c684b29b078067d55f125ba1
